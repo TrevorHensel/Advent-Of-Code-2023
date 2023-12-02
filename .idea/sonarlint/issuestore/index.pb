@@ -72,3 +72,15 @@ Y
 )src/challenges/models/BagGameResults.java,c\8\c83cb8e8b0b43cd8258e68c940e75129a6c87c19
 M
 src/challenges/Day2Part2.java,8\7\8720e997a94e6e640f3803ac82a725a1e2abe800
+9
+	ReadMe.md,a\2\a225a7e79496c5a1d847c78c3db651eb302ec867
+H
+src/rules/Day1-1Rules.md,1\2\12ff928e7f24e65f2096e5cf096d3c23d3fc995e
+H
+src/rules/Day1-2Rules.md,9\2\929994c6d1f3a7b6f102dec36035f2d5cb7c925d
+H
+src/rules/Day2-1Rules.md,2\a\2af5fadd1bc1ca71f82e213248eab1063a95b652
+B
+src/Day2-2Rules.md,8\9\8922e2ef515a6cf0c04a66bc6edbf281af3e5101
+H
+src/rules/Day2-2Rules.md,8\b\8b3fb7f6ba5c245ab740b69672912818995ff52c
