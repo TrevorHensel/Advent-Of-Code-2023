@@ -14,7 +14,7 @@ public class Day1 {
         // Empty constructor
     }
 
-    private static final String INPUT_FILE_PATH = "src/input/input-challenges.Day1.txt";
+    private static final String INPUT_FILE_PATH = "src/input/input-Day1.txt";
 
     public static void getSolution()
     {
