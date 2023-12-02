@@ -42,3 +42,7 @@ Q.idea/sonarlint/securityhotspotstore/e/1/e1218307ad7bf94fba09d3c98e25db4ca79461
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 Å
 Q.idea/sonarlint/securityhotspotstore/7/1/711d1b8cc148e8ff6244aa7e900bba998a23aa5b,c\4\c493f775a7c5a8a41092270efebcb6c11ec8ad96
+\
+,src/challenges/model/AdventChallengeDay.java,a\a\aa47f2c2f94b3469fa79bc9d9ee73ec20954b1f7
+f
+6src/challenges/model/AdventChallengeDayFirstInput.java,3\8\389273fb711843434dd07afe50b193700dda5f7b

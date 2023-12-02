@@ -1,39 +1,36 @@
 package challenges;
 
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.Collections;
+import challenges.model.AdventChallengeDayFirstInput;
+
 import java.util.List;
 
-import static challenges.helpers.InputImporter.getInputFromFile;
-
-public class Day1 {
+public class Day1 implements AdventChallengeDayFirstInput {
 
     private Day1() {
         // Empty constructor
     }
 
-    private static final String INPUT_FILE_PATH = "src/input/input-Day1.txt";
-
     public static void getSolution()
     {
-        int sum = 0;
-        List<String> input = getInputFromFile(INPUT_FILE_PATH);
-
-        if (input.isEmpty()) {
+        if (INPUT.isEmpty()) {
             System.out.println("Input file is empty");
             return;
         }
 
-        for (String line : input) {
-            sum += getCalibrationValue(line);
-        }
-
-        System.out.println("Solution: " + sum);
+        int answer = calculateTotalOfCalibrationValues(INPUT);
+        System.out.println("Solution: " + answer);
     }
 
-    private static int getCalibrationValue(String line) {
+    private static int calculateTotalOfCalibrationValues(List<String> input) {
+        int sum = 0;
+        for (String line : input) {
+            sum += getCalibrationValueForLine(line);
+        }
+        return sum;
+    }
+
+    private static int getCalibrationValueForLine(String line) {
+        // TODO don't really need this booleans
         boolean foundFirstDigit = false;
         int calibrationValue = 0;
         int tempLastNumber = 0;

@@ -1,11 +1,5 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(Àè§˜8÷Íã»Â1
-L	java:S106!"+Replace this use of System.out by a logger.(Ú†ıûÿÿÿÿ8úÍã»Â1
-R
-java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÂàĞáÂ1
-M
-java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ÂàĞáÂ1
-M
-java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8ÂàĞáÂ1
-T
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ÂàĞáÂ1
+G	java:S106"+Replace this use of System.out by a logger.(Àè§˜8½’ˆâÂ1
+G	java:S106"+Replace this use of System.out by a logger.(º¯ÖË8¾’ˆâÂ1
+O
+java:S1135!"2Complete the task associated to this TODO comment.(±¼“–8­—±âÂ1
