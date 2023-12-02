@@ -54,3 +54,9 @@ M
 src/challenges/Day1Part2.java,e\8\e8d57cfc555a4fe8e51e803921e4dd04120f9e83
 M
 src/challenges/Day1Part1.java,d\2\d29201c17e75519890b30b75620af14eb609c08b
+H
+src/input/input-Day2.txt,f\9\f94bcba0b898642acf723d225069836f5eb7078e
+g
+7src/challenges/model/AdventChallengeDaySecondInput.java,e\e\eea420b5f7c4acc9135ab546f32b7f8ff96c0214
+M
+src/challenges/Day2Part1.java,1\f\1fa1b0d9923ce65e20a2b4552dc8a348ba6c93b0

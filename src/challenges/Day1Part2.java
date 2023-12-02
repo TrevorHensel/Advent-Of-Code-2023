@@ -3,7 +3,22 @@ package challenges;
 import challenges.helpers.Numbers;
 import challenges.model.AdventChallengeDayFirstInput;
 
-import java.util.List;
+/*
+Your calculation isn't quite right. It looks like some of the digits are actually spelled out with letters: one, two, three, four, five, six, seven, eight, and nine also count as valid "digits".
+
+Equipped with this new information, you now need to find the real first and last digit on each line. For example:
+
+two1nine
+eightwothree
+abcone2threexyz
+xtwone3four
+4nineeightseven2
+zoneight234
+7pqrstsixteen
+In this example, the calibration values are 29, 83, 13, 24, 42, 14, and 76. Adding these together produces 281.
+
+What is the sum of all of the calibration values?
+ */
 
 public class Day1Part2 implements AdventChallengeDayFirstInput {
 
@@ -17,13 +32,13 @@ public class Day1Part2 implements AdventChallengeDayFirstInput {
             return;
         }
 
-        int answer = calculateTotalOfCalibrationValues(INPUT);
-        System.out.println("Solution: " + answer);
+        int answer = calculateTotalOfCalibrationValues();
+        System.out.println("Day 1-2 Solution: " + answer);
     }
 
-    private static int calculateTotalOfCalibrationValues(List<String> input) {
+    private static int calculateTotalOfCalibrationValues() {
         int sum = 0;
-        for (String line : input) {
+        for (String line : INPUT) {
             sum += getCalibrationValueForLine(line);
         }
         return sum;
