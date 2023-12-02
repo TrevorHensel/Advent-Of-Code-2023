@@ -3,27 +3,15 @@ package challenges;
 import challenges.model.AdventChallengeDayFirstInput;
 
 import java.util.List;
-import java.util.Map;
 
-public class Day2 implements AdventChallengeDayFirstInput {
-    private static final Map<String, Integer> lengthToWord = Map.of(
-            "one", 3,
-            "two", 3,
-            "three", 5,
-            "four", 4,
-            "five", 4,
-            "six", 3,
-            "seven", 5,
-            "eight", 5,
-            "nine", 4,
-            "ten", 3
-    );
+public class Day1Part1 implements AdventChallengeDayFirstInput {
 
-    private Day2() {
-        // empty constructor
+    private Day1Part1() {
+        // Empty constructor
     }
 
-    public void getSolution() {
+    public static void getSolution()
+    {
         if (INPUT.isEmpty()) {
             System.out.println("Input file is empty");
             return;
@@ -42,6 +30,7 @@ public class Day2 implements AdventChallengeDayFirstInput {
     }
 
     private static int getCalibrationValueForLine(String line) {
+        // TODO don't really need this booleans
         boolean foundFirstDigit = false;
         int calibrationValue = 0;
         int tempLastNumber = 0;

@@ -1,5 +1,3 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(Àè§˜8Ğ¦¦âÂ1
-G	java:S106!"+Replace this use of System.out by a logger.(º¯ÖË8Ñ¦¦âÂ1
-R
-java:S1068	"0Remove this unused "lengthToWord" private field.(ù•¬Üøÿÿÿÿ8Ò¦¦âÂ1
+G	java:S106"+Replace this use of System.out by a logger.(Àè§˜8ìèïâÂ1
+G	java:S106"+Replace this use of System.out by a logger.(º¯ÖË8íèïâÂ1

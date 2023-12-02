@@ -46,3 +46,11 @@ Q.idea/sonarlint/securityhotspotstore/7/1/711d1b8cc148e8ff6244aa7e900bba998a23aa
 ,src/challenges/model/AdventChallengeDay.java,a\a\aa47f2c2f94b3469fa79bc9d9ee73ec20954b1f7
 f
 6src/challenges/model/AdventChallengeDayFirstInput.java,3\8\389273fb711843434dd07afe50b193700dda5f7b
+Z
+*src/challenges/helpers/NumbersAsWords.java,7\8\7873aa7467e52ee2e44d8a5457f990f4acece621
+S
+#src/challenges/helpers/Numbers.java,9\0\90a5a5c227f6664f70ffe60ee754f3eedb12d9b3
+M
+src/challenges/Day1Part2.java,e\8\e8d57cfc555a4fe8e51e803921e4dd04120f9e83
+M
+src/challenges/Day1Part1.java,d\2\d29201c17e75519890b30b75620af14eb609c08b
