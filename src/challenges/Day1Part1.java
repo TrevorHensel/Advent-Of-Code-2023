@@ -1,6 +1,6 @@
 package challenges;
 
-import challenges.model.AdventChallengeDayFirstInput;
+import challenges.interfaces.AdventChallengeDayFirstInput;
 
 /*
 --- Day 1: Trebuchet?! ---

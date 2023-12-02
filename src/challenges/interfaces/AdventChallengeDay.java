@@ -1,4 +1,4 @@
-package challenges.model;
+package challenges.interfaces;
 
 public interface AdventChallengeDay {
 }

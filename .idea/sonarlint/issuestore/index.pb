@@ -60,3 +60,15 @@ g
 7src/challenges/model/AdventChallengeDaySecondInput.java,e\e\eea420b5f7c4acc9135ab546f32b7f8ff96c0214
 M
 src/challenges/Day2Part1.java,1\f\1fa1b0d9923ce65e20a2b4552dc8a348ba6c93b0
+a
+1src/challenges/interfaces/AdventChallengeDay.java,2\9\29bf41739c15c351e08a7bb36d58bc0b808bf8bf
+l
+<src/challenges/interfaces/AdventChallengeDaySecondInput.java,2\a\2a01d10b22e89a373f942b56c4d111237a87b54d
+k
+;src/challenges/interfaces/AdventChallengeDayFirstInput.java,5\8\58f487f808132fdda866ea4bf4f5a11530a9a9ab
+J
+src/challenges/models.java,a\e\aec2c886992810efd9f742896562bf920ecbffe7
+Y
+)src/challenges/models/BagGameResults.java,c\8\c83cb8e8b0b43cd8258e68c940e75129a6c87c19
+M
+src/challenges/Day2Part2.java,8\7\8720e997a94e6e640f3803ac82a725a1e2abe800
