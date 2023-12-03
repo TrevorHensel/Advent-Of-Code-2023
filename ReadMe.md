@@ -6,6 +6,8 @@ This is an interactive coding challenge designed in the spirit of [Advent of Cod
 1. Day 1
    1. [Part 1](src/rules/Day1-1Rules.md)
    2. [Part 2](src/rules/Day1-2Rules.md)
-3. Day 2
+2. Day 2
    1. [Part 1](src/rules/Day2-1Rules.md)
    2. [Part 2](src/rules/Day2-2Rules.md)
+3. Day 3
+   1. [Part 1](src/rules/Day3-1Rules.md)

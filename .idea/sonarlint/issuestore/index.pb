@@ -1,18 +1,8 @@
 
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-=
-src/Day1.java,e\1\e1218307ad7bf94fba09d3c98e25db4ca79461a5
 H
 src/input/input-Day1.txt,f\c\fc2fe18dc94ea5b3e1781fea5c5817882bf23a00
-I
-src/models/AdventDay.java,f\1\f13aa533eed3a3b83eace31fade306622f2deb14
-=
-src/Day2.java,7\1\711d1b8cc148e8ff6244aa7e900bba998a23aa5b
-H
-src/challenges/Day2.java,e\6\e6e2fad7b63a7fb9664b870e28c51ddcaf6c3947
-H
-src/challenges/Day1.java,9\6\965e305b145c232625248b10a7c18b4ed4a2b580
 Y
 )src/challenges/helpers/InputImporter.java,9\d\9d05a6976d79a6d7bc90b56e3daf17cdcf89f4b1
 w
@@ -42,12 +32,6 @@ Q.idea/sonarlint/securityhotspotstore/e/1/e1218307ad7bf94fba09d3c98e25db4ca79461
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 Å
 Q.idea/sonarlint/securityhotspotstore/7/1/711d1b8cc148e8ff6244aa7e900bba998a23aa5b,c\4\c493f775a7c5a8a41092270efebcb6c11ec8ad96
-\
-,src/challenges/model/AdventChallengeDay.java,a\a\aa47f2c2f94b3469fa79bc9d9ee73ec20954b1f7
-f
-6src/challenges/model/AdventChallengeDayFirstInput.java,3\8\389273fb711843434dd07afe50b193700dda5f7b
-Z
-*src/challenges/helpers/NumbersAsWords.java,7\8\7873aa7467e52ee2e44d8a5457f990f4acece621
 S
 #src/challenges/helpers/Numbers.java,9\0\90a5a5c227f6664f70ffe60ee754f3eedb12d9b3
 M
@@ -56,8 +40,6 @@ M
 src/challenges/Day1Part1.java,d\2\d29201c17e75519890b30b75620af14eb609c08b
 H
 src/input/input-Day2.txt,f\9\f94bcba0b898642acf723d225069836f5eb7078e
-g
-7src/challenges/model/AdventChallengeDaySecondInput.java,e\e\eea420b5f7c4acc9135ab546f32b7f8ff96c0214
 M
 src/challenges/Day2Part1.java,1\f\1fa1b0d9923ce65e20a2b4552dc8a348ba6c93b0
 a
@@ -66,10 +48,6 @@ l
 <src/challenges/interfaces/AdventChallengeDaySecondInput.java,2\a\2a01d10b22e89a373f942b56c4d111237a87b54d
 k
 ;src/challenges/interfaces/AdventChallengeDayFirstInput.java,5\8\58f487f808132fdda866ea4bf4f5a11530a9a9ab
-J
-src/challenges/models.java,a\e\aec2c886992810efd9f742896562bf920ecbffe7
-Y
-)src/challenges/models/BagGameResults.java,c\8\c83cb8e8b0b43cd8258e68c940e75129a6c87c19
 M
 src/challenges/Day2Part2.java,8\7\8720e997a94e6e640f3803ac82a725a1e2abe800
 9
@@ -80,7 +58,19 @@ H
 src/rules/Day1-2Rules.md,9\2\929994c6d1f3a7b6f102dec36035f2d5cb7c925d
 H
 src/rules/Day2-1Rules.md,2\a\2af5fadd1bc1ca71f82e213248eab1063a95b652
-B
-src/Day2-2Rules.md,8\9\8922e2ef515a6cf0c04a66bc6edbf281af3e5101
 H
 src/rules/Day2-2Rules.md,8\b\8b3fb7f6ba5c245ab740b69672912818995ff52c
+H
+src/input/input-Day3.txt,0\8\08f3cb0d76a2a65f4336e0742df4706c91a674de
+k
+;src/challenges/interfaces/AdventChallengeDayThirdInput.java,0\0\0093fc654980a26420a647404b2557314ee30a0f
+M
+src/challenges/Day3Part3.java,3\b\3b97f99d16b79ff5cf5f35c441a1066a09e85ffa
+H
+src/rules/Day3-1Rules.md,b\d\bdbad9bd270f2f68a6767fe77aa880e449264b53
+M
+src/challenges/Day3Part1.java,c\b\cb57619c94a1ce9ec2a987fc4887021e8ab32905
+Y
+)src/challenges/models/SchematicValue.java,b\1\b19062a37e28506cd6ca57753a03bf0f9ddd8d54
+B
+src/input/test.txt,f\a\fafaae6f4e3c9656b80223cacab6e31dff3e3171
