@@ -74,3 +74,13 @@ Y
 )src/challenges/models/SchematicValue.java,b\1\b19062a37e28506cd6ca57753a03bf0f9ddd8d54
 B
 src/input/test.txt,f\a\fafaae6f4e3c9656b80223cacab6e31dff3e3171
+H
+src/rules/Day3-2Rules.md,4\d\4db139f511584fd2d3c25279dc7f73b0e9579029
+M
+src/challenges/Day3Part2.java,8\7\87a3d7fdf585143cb895ea43bd50b38085b0b228
+a
+1src/challenges/helpers/SchematicValuesFinder.java,0\e\0e660298fcb8dfcaccdf4fd343498924ba690c48
+a
+1src/challenges/helpers/SchematicValuesHelper.java,d\6\d64dd9c07d99f19b945d1a05f8102c597acba6b8
+A
+src/input/test.md,c\d\cdf1977a480abf67c6484e3b31acd793626c7b12
