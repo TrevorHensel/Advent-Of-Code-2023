@@ -74,3 +74,5 @@ M
 src/challenges/Day4Part1.java,0\0\008f79f3daee97a70f8b03924aa983000303cfdc
 H
 src/rules/Day4-2Rules.md,0\2\02916b0dc4b15520b18b1064ae4dae1e6664b6a2
+M
+src/challenges/Day4Part2.java,8\c\8c8cb305c88bd847a918bf7d24ecfd9fdb48638d

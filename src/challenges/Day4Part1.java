@@ -2,9 +2,11 @@ package challenges;
 
 import challenges.interfaces.AdventChallengeDayFourthInput;
 
-import java.util.Arrays;
+public class Day4Part1 extends AdventChallengeDayFourthInput {
 
-public class Day4Part1 implements AdventChallengeDayFourthInput {
+    private Day4Part1() {
+        // empty constructor
+    }
 
     public static void getSolution() {
         if (INPUT.isEmpty()) {
@@ -19,27 +21,13 @@ public class Day4Part1 implements AdventChallengeDayFourthInput {
     private static int getPointsFromWinningTickets() {
         int sum = 0;
         for (String line : INPUT) {
-            String ticket = line.split(":")[1].trim();
-            String winningNumbers = ticket.split("\\|")[0].trim();
-            String numbersInPlay = ticket.split("\\|")[1].trim();
-            String[] winningNumbersArray = winningNumbers.split("\\s+");
-            String[] numbersInPlayArray = numbersInPlay.split("\\s+");
-            sum += getPointsFromSingleGame(winningNumbersArray, numbersInPlayArray);
-        }
-        return sum;
-    }
+            int amountOfWinningNumbers = getNumberOfWinningNumbersInASingleGame(line);
 
-    private static int getPointsFromSingleGame(String[] winningNumbersArray, String[] numbersInPlayArray) {
-        int sum = 0;
-        for (String winningNumber : winningNumbersArray) {
-            if (Arrays.stream(numbersInPlayArray).anyMatch(numberInPlay -> numberInPlay.equals(winningNumber))) {
-                if (sum == 0) {
-                    sum = 1;
-                }
-                else {
-                    sum *= 2;
-                }
+            if (amountOfWinningNumbers == 0) {
+                continue;
             }
+
+            sum += (int) Math.pow(2, amountOfWinningNumbers - 1);
         }
         return sum;
     }

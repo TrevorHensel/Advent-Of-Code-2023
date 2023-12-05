@@ -10,5 +10,6 @@ public class Main {
         Day3Part1.getSolution();
         Day3Part2.getSolution();
         Day4Part1.getSolution();
+        Day4Part2.getSolution();
     }
 }
