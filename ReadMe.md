@@ -11,3 +11,7 @@ This is an interactive coding challenge designed in the spirit of [Advent of Cod
    2. [Part 2](src/rules/Day2-2Rules.md)
 3. Day 3
    1. [Part 1](src/rules/Day3-1Rules.md)
+   2. [Part 2](src/rules/Day3-2Rules.md)
+4. Day 4
+   1. [Part 1](src/rules/Day4-1Rules.md)
+   2. [Part 2](src/rules/Day4-2Rules.md)
