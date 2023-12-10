@@ -76,3 +76,13 @@ H
 src/rules/Day4-2Rules.md,0\2\02916b0dc4b15520b18b1064ae4dae1e6664b6a2
 M
 src/challenges/Day4Part2.java,8\c\8c8cb305c88bd847a918bf7d24ecfd9fdb48638d
+H
+src/rules/Day5-1Rules.md,a\3\a31ce5649c9ff3bce59e6e3158e44e8b5cd8de17
+k
+;src/challenges/interfaces/AdventChallenfeDayFifthInput.java,b\0\b0ed7583e30810f6f7cf260be16dea6f10b25fb8
+k
+;src/challenges/interfaces/AdventChallengeDayFifthInput.java,7\7\77b8bca9efb8707fd78496898bb064e8a34fc390
+H
+src/input/input-Day5.txt,5\b\5be5854ec073a8d171436bed3adff72372c5339e
+M
+src/challenges/Day5Part1.java,f\a\faa1cbd13e21a3e4bac5d06d3139ae1dae11d743
