@@ -9,6 +9,7 @@ public class Main {
      *  5. Ensure all coding styles are similar throughout all the days
      *  6. Some interfaces are not actually interfaces, need a better name for that package
      *  7. Probably don't need the base interface
+     *  8. Make a way to calculate once and store the correct answer so that test no longer runs
      */
     public static void main(String[] args) {
         System.out.println("Hello Advent of Code - 2023!");
@@ -21,5 +22,6 @@ public class Main {
         Day4Part1.getSolution();
         Day4Part2.getSolution();
         Day5Part1.getSolution();
+        Day5Part2.getSolution();
     }
 }

@@ -86,3 +86,5 @@ H
 src/input/input-Day5.txt,5\b\5be5854ec073a8d171436bed3adff72372c5339e
 M
 src/challenges/Day5Part1.java,f\a\faa1cbd13e21a3e4bac5d06d3139ae1dae11d743
+M
+src/challenges/Day5Part2.java,0\a\0a31d9047193c9cca21e4403c5bb1815b0b8f246
