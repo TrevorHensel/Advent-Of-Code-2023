@@ -2,8 +2,6 @@ package challenges;
 
 import challenges.interfaces.AdventChallengeDaySixthInput;
 
-import java.util.List;
-
 public class Day6Part2 implements AdventChallengeDaySixthInput {
 
     private static final long TIME = getValue(0);

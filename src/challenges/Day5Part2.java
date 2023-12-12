@@ -2,9 +2,6 @@ package challenges;
 
 import challenges.interfaces.AdventChallengeDayFifthInput;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Day5Part2 implements AdventChallengeDayFifthInput {
 
     private Day5Part2() {
