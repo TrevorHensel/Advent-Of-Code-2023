@@ -23,5 +23,7 @@ public class Main {
         Day4Part2.getSolution();
         Day5Part1.getSolution();
         Day5Part2.getSolution();
+        Day6Part1.getSolution();
+        Day6Part2.getSolution();
     }
 }

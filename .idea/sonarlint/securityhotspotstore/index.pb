@@ -79,8 +79,6 @@ M
 H
 src/rules/Day5-1Rules.md,a\3\a31ce5649c9ff3bce59e6e3158e44e8b5cd8de17
 k
-;src/challenges/interfaces/AdventChallenfeDayFifthInput.java,b\0\b0ed7583e30810f6f7cf260be16dea6f10b25fb8
-k
 ;src/challenges/interfaces/AdventChallengeDayFifthInput.java,7\7\77b8bca9efb8707fd78496898bb064e8a34fc390
 H
 src/input/input-Day5.txt,5\b\5be5854ec073a8d171436bed3adff72372c5339e
@@ -88,3 +86,15 @@ M
 src/challenges/Day5Part1.java,f\a\faa1cbd13e21a3e4bac5d06d3139ae1dae11d743
 M
 src/challenges/Day5Part2.java,0\a\0a31d9047193c9cca21e4403c5bb1815b0b8f246
+H
+src/rules/Day6-1Rules.md,6\4\64eaf156138e1ae4c660cadad87ce0f73c484a77
+H
+src/rules/Day5-2Rules.md,1\7\171d8608c1340895fda411e56d44939bd5bda1a1
+H
+src/input/input-Day6.txt,4\8\48ff286ad758bdb88a43f4e2b9d5a6bdb184444c
+k
+;src/challenges/interfaces/AdventChallengeDaySixthInput.java,9\0\901e2801184d34184ac42bdd61c6d62ba260f76c
+M
+src/challenges/Day6Part1.java,9\c\9c3e04b8bb9370313ba530d66a7a7b7265a3d07c
+M
+src/challenges/Day6Part2.java,0\4\04bcfe5fdff2d70d65697c0f3cc75fc8e43f60cc
